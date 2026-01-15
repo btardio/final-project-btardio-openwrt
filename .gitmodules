@@ -1,0 +1,6 @@
+[submodule "arm-trusted-firmware"]
+	path = arm-trusted-firmware
+	url = https://github.com/mtk-openwrt/arm-trusted-firmware.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/buildroot/buildroot.git
