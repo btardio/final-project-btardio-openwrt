@@ -4,3 +4,6 @@
 [submodule "buildroot"]
 	path = buildroot
 	url = https://github.com/buildroot/buildroot.git
+[submodule "openwrt"]
+	path = openwrt
+	url = https://github.com/openwrt/openwrt.git
